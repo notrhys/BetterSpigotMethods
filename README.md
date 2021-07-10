@@ -7,6 +7,27 @@ This API provides faster methods of getting specific information from the spigot
 
 # Supported: 1.7 - 1.8 , (working on other versions soon)
 
+## Installation
+
+Maven:
+
+```xml
+ <repositories>
+        <repository>
+            <id>Sparky</id>
+            <url>https://nexus.sparky.ac/repository/Sparky/</url>
+        </repository>
+    </repositories>
+
+    <dependencies>
+        <dependency>
+            <groupId>me.rhys</groupId>
+            <artifactId>BetterSpigotMethods</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
+```
+
 ## Examples
 
 Setting up the API:
