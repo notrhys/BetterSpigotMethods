@@ -5,6 +5,8 @@ Faster spigot player methods
 
 This API provides faster methods of getting specific information from the spigot API.
 
+# Supported: 1.7 - 1.8 , (working on other versions soon)
+
 ## Examples
 
 Setting up the API:
